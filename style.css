@@ -74,6 +74,11 @@ button {
   color: #3a3a3a;
 }
 
+.visually-hidden {
+  position: absolute;
+  visibility: hidden;
+}
+
 /* Heading */
 .title,
 .adding-task__label {
